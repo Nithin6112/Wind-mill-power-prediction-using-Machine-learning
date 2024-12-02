@@ -1,4 +1,5 @@
 # Wind-mill-power-prediction-using-Machine-learning
-![wind-power-landscape-stockcake](https://github.com/user-attachments/assets/62f958c5-bd9e-4b34-b6f1-c5fedc470f45)
+![green-landscape-with-wind-turbines-illustration_1322560-35466](https://github.com/user-attachments/assets/0e811e64-8243-4e22-ba5b-35c6b342594c)
+
 
 LSTM_CNN Model
